@@ -1,1 +1,3 @@
 # seo-refactor
+
+## usage
